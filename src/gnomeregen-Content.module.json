@@ -1,0 +1,16 @@
+{
+    "namespace": "gnomeregen-Content",
+    "references": [ "gnomeregen" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/gnomeregen"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/gnomeregen"
+            }
+        ]
+    }
+}

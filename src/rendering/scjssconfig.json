@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "..\\..\\docker\\deploy\\platform\\",
+    "apiKey": "12ae5a9e-474c-4cf9-99cf-c91b6dc5011c",
+    "deploySecret": "39d3467626314bf98c1a5888110675da",
+    "deployUrl": "https://cm.gnomeregen.localhost/sitecore/api/jss/import",
+    "layoutServiceHost": "https://cm.gnomeregen.localhost"
+  }
+}
